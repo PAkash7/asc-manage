@@ -1,4 +1,5 @@
 # ASC Store Manager
+*Link*- https://asc-manage.vercel.app/
 
 **ASC Store Manager** is a modern, efficient, and user-friendly Point of Sale (POS) and Inventory Management System designed specifically for the **Ardh Sainik Canteen (JAJAULI)**. 
 
